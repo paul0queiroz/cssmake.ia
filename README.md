@@ -52,13 +52,6 @@ cd cssmake.ia
 
 ## ✍️ Autor
 
-Feito com 💙 por [Paulo Queiroz](https://github.com/paul0queiroz)
+Feito por [Paulo Queiroz](https://github.com/paul0queiroz)
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
 
