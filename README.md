@@ -25,7 +25,7 @@ cssmake.ia/
 
 ---
 
-## 📸 Previe
+## 📸 Preview
 ![image](https://github.com/user-attachments/assets/e508d074-8c7a-42ec-adf5-d79bc8375f4e)
 
 
